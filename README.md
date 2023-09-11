@@ -3,7 +3,7 @@
 
 Стек: 
 * PyTorch
-* Trabsformers BERT
+* Transformers BERT
 * CatBoostClassifier
 * Sklearn
 
